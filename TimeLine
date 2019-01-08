@@ -1,0 +1,10 @@
+<div class="timeline gray-blue"> <!-- Main element container -->
+	<div class="timeline-block">	<!-- Single block -->
+		<div class="timeline-icon"></div> <!-- Icon on the timeline -->
+		<div class="timeline-content"> 
+			<p> Any content </p> <!-- Content -->
+			<div class="timeline-date">Yesterday</div> <!-- Date -->
+		</div>
+	</div>
+	...
+</div>
